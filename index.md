@@ -11,6 +11,7 @@ I've worked on problems in Artificial Intelligence, Manifold Learning, Probabili
 
 #### Teaching
 
+![image](scigma.png)
 
 #### Personal
 
