@@ -9,7 +9,7 @@ I've worked on problems in Artificial Intelligence, Manifold Learning, Probabili
 
 ![image](3d.png)
 
-#### Teaching
+#### [Teaching](Teaching.md)
 
 ![image](scigma.png)
 
