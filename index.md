@@ -7,11 +7,11 @@ I've worked on problems in Artificial Intelligence, Manifold Learning, Probabili
 
 #### Research
 
-![image](3d.png)
+<img src="3d.png" width="400"/>
 
 #### [Teaching](Teaching.md)
 
-![image](scigma.png)
+<img src="scigma.png" width="400"/>
 
 #### Personal
 
