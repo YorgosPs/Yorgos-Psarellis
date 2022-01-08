@@ -7,6 +7,7 @@ I've worked on problems in Artificial Intelligence, Manifold Learning, Probabili
 
 #### Research
 
+![image](3d.png)
 
 #### Teaching
 
