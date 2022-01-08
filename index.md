@@ -5,7 +5,7 @@
 I'm interested in Computational Research that helps people. 
 I've worked on problems in Artificial Intelligence, Manifold Learning, Probability Theory, Biology, Biomedical engineering and Catalysis. Check out my [CV](CV_Psarellis.pdf) for more a summary of my academic journey.
 
-#### Research
+#### [Research](Research.md)
 
 <img src="3d.png" width="400"/>
 
