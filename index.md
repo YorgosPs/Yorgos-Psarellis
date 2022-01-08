@@ -24,6 +24,7 @@ I've worked on problems in Artificial Intelligence, Manifold Learning, Probabili
                 <input type="email" name="_replyto" placeholder="Your email" required>
                 <br>
                 <textarea name="message" placeholder="Type your message" required></textarea>
+                <br>
                 <button type="submit">Send</button>
             </form>
         </div>
