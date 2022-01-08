@@ -20,8 +20,7 @@ I've worked on problems in Artificial Intelligence, Manifold Learning, Probabili
 <!-- modify this form HTML and place wherever you want your form 
 <form
   action="https://formspree.io/f/xrgjbvpp"
-  method="POST"
->
+  method="POST">
   <label>
     Your email:
     <input type="email" name="_replyto">
@@ -33,7 +32,7 @@ I've worked on problems in Artificial Intelligence, Manifold Learning, Probabili
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
-</form>-->
+</form> -->
 
 <div id="contact">
         <h4>Get in Touch</h4>
