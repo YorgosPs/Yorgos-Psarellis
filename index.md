@@ -16,7 +16,7 @@ I've worked on problems in Artificial Intelligence, Manifold Learning, Probabili
 #### Personal
 
 
-Contact Information
+Contact Me
 
 
 <!-- modify this form HTML and place wherever you want your form -->
