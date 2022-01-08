@@ -2,7 +2,7 @@
 ### Machine Learning Scientist
 #### PhD Candidate @ JHU
 
-Personal statement and CV.
+Personal statement and [CV](CV_Psarellis.pdf)
 
 #### Research
 
