@@ -16,8 +16,6 @@ I've worked on problems in Artificial Intelligence, Manifold Learning, Probabili
 #### Personal
 
 
-Contact Me
-
 
 <!-- modify this form HTML and place wherever you want your form 
 <form
@@ -35,12 +33,10 @@ Contact Me
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
-</form>
-
--->
+</form>-->
 
 <div id="contact">
-        <h2>Get in Touch</h2>
+        <h4>Get in Touch</h4>
         <div id="contact-form">
                 <form action="https://formspree.io/f/xrgjbvpp" method="POST">
                 <input type="hidden" name="_subject" value="Contact request from personal website" />
