@@ -1,8 +1,9 @@
 # Yorgos Psarellis
-### Machine Learning Scientist
+#### Machine Learning Scientist
 #### PhD Candidate @ JHU
 
-Personal statement and [CV](CV_Psarellis.pdf)
+I'm interested in Computational Research that helps people. 
+I've worked on problems in Artificial Intelligence, Manifold Learning, Probability Theory, Biology, Biomedical engineering and Catalysis. Check out my [CV](CV_Psarellis.pdf) for more a summary of my academic journey.
 
 #### Research
 
