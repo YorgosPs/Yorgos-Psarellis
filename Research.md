@@ -8,7 +8,7 @@ Chemotaxis is the ability of bacteria to direct multicellular motion along chemi
   * Data from Monte-Carlo simulations (agent-based models)
   * Sparse, experimental data
 
-
+<img src="NNPDE1.gif" width="400"/>
 
 
 * Programming Dynamic Catalysts with Bayesian Optimization
