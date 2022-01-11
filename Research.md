@@ -1,10 +1,11 @@
 ### PhD Projects
 
-* #### Learning how Bacteria move  with Neural Networks  
+#### Neural Networks can learn how Bacteria move and coordinate  
 Chemotaxis is the ability of bacteria to direct multicellular motion along chemical gradients [1]. This phenomenon is central to environmental, medical and agricultural processes. For this project, I trained Neural Networks that *learn* Chemotactic PDEs, and when integrated, can reproduce and predict bacterial density profiles. This has been done in the following cases:
   * Black-box PDE models
   * Gray-box PDE models (Closures)
-  * Partial information - second order models
+  * Partial information - second order models  
+  
 And with many kinds of datasets:
   * Data from PDE simulations 
   * Data from Monte-Carlo simulations (agent-based model)
@@ -21,7 +22,13 @@ And with many kinds of datasets:
 
 [1]  [Bhattacharjee et al., 2020](https://www.sciencedirect.com/science/article/pii/S0006349521004276)
 
-* #### Programming Dynamic Catalysts with Bayesian Optimization
+#### Programming Dynamic Catalysts with Bayesian Optimization
+Catalytic reactions are naturally limited by the Sabatier principle. By imposing an electrodynamic oscillation on the surface, the binding energies and surface coverages oscillate in time.  When the oscillation parameters are tuned appropriately, the Sabatier principle can be overcome. 
+ * I use the Variational Approach to locate periodic steady states. 
+ * Pseudo-arclength continuation 
+ * Bayesian Optimization 
+
+
 * Bayesian Continuation for Bayesian Optimization
 * Investigating the response of Circadian Rhythmicity to drugs
 * Directed Graph Embeddings
