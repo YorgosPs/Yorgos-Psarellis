@@ -10,6 +10,7 @@ Chemotaxis is the ability of bacteria to direct multicellular motion along chemi
 
 <img src="NNPDE1.gif" width="400"/>
 
+<img src="1.jpeg" width="400"/>
 
 * #### Programming Dynamic Catalysts with Bayesian Optimization
 * Bayesian Continuation for Bayesian Optimization
