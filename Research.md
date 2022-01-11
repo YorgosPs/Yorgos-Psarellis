@@ -23,10 +23,17 @@ And with many kinds of datasets:
 [1]  [Bhattacharjee et al., 2020](https://www.sciencedirect.com/science/article/pii/S0006349521004276)
 
 #### Programming Dynamic Catalysts with Bayesian Optimization
-Catalytic reactions are naturally limited by the Sabatier principle. By imposing an electrodynamic oscillation on the surface, the binding energies and surface coverages oscillate in time.  When the oscillation parameters are tuned appropriately, the Sabatier principle can be overcome. 
+Catalytic reactions are naturally limited by the Sabatier principle. By imposing an electrodynamic oscillation on the surface, the binding energies and surface coverages oscillate in time.  When the oscillation parameters are tuned appropriately, the Sabatier principle can be overcome. I used advanced numerical methods and machine learning to tune such catalysts. Improved catalytic performance can have significant impact on <u> sustainability </u>, such as low cost solar and wind power [2].
  * I use the Variational Approach to locate periodic steady states. 
  * Pseudo-arclength continuation 
  * Bayesian Optimization 
+
+<img src="dyncat.gif" width="200"/>
+
+**Fig.1** : The Data-driven PDE is able to reproduce the bacteria density profiles beyond the training set and predict new trajectories. 
+
+
+[2] [Ardagh et al., 2020](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06140a)
 
 
 * Bayesian Continuation for Bayesian Optimization
