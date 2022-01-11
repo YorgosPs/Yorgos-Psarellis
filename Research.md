@@ -3,10 +3,12 @@
 * #### Learning how Bacteria move  with Neural Networks  
 Chemotaxis is the ability of bacteria to direct multicellular motion along chemical gradients [1]. This phenomenon is central to environmental, medical and agricultural processes. For this project, I trained Neural Networks that *learn* Chemotactic PDEs, and when integrated, can reproduce and predict bacterial density profiles. This has been done in the following cases:
   * Black-box PDE models
-  * Gray-box PDE models
+  * Gray-box PDE models (Closures)
   * Partial information - second order models
-  * Data from Monte-Carlo simulations (agent-based models)
-  * Sparse, experimental data
+And with many kinds of datasets:
+  * Data from PDE simulations 
+  * Data from Monte-Carlo simulations (agent-based model)
+  * Sparse, Noisy experimental data
 
 <img src="NNPDE1.gif" width="400"/>
 
