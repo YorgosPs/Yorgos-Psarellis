@@ -30,8 +30,11 @@ Catalytic reactions are naturally limited by the Sabatier principle. By imposing
 
 <img src="dyncat.gif" width="200"/>
 
-**Fig.1** : The Data-driven PDE is able to reproduce the bacteria density profiles beyond the training set and predict new trajectories. 
+**Fig.3** : Dynamic Catalysts act like a molecular 'pump' overcoming the limitations of static catalysis.
 
+<img src="dyncat.gif" width="200"/>
+
+**Fig.4** : Bayesian Optimization 'sculpts' a complex forcing function to optimize the reactor's performance. 
 
 [2] [Ardagh et al., 2020](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06140a)
 
