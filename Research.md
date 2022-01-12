@@ -33,9 +33,7 @@ Improved catalytic performance can lead to breakthroughs in sustainability, e.g.
 
 **Fig.3** : Dynamic Catalysts act like a molecular 'pump' overcoming the limitations of static catalysis.
 
-https://user-images.githubusercontent.com/19255413/149025012-5646acd7-e3b4-4f45-adb3-63bdcaa6945e.mov
-
-
+<video> src = Animation.mov </video>
 
 **Fig.4** : Bayesian Optimization 'sculpts' a complex forcing function to optimize the reactor's performance. 
 
