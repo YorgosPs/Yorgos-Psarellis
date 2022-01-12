@@ -54,8 +54,16 @@ A research 'by-product' of Dynamic Catalysis: Initializing Black-box simulations
 
 * **Investigating the response of Circadian Rhythmicity to drugs**
 
+Circadian rhythm is central to many physiological, mental and behavioral processes in mammals. I study one of the most advanced and established computational biology models of the suprachiasmatic nucleus, the neurons of which decide the circadian rhythm [3]. 
+   * Using Matrix-free numerical methods, I explore periodic solutions of a 8925-dimensional    dynamical system. 
+   * I explore how the drug Longdaysin affects the limits of entrainment 
+   * Unsupervised learning is used to cluster/order the neurons by their heterogeneities.
+
 
 <span style="color:red"> Project under completion </span>
+
+[3] [Vasalou et al., 2011](https://www.sciencedirect.com/science/article/pii/S0006349511005613)
+
 
 
 * **Directed Graph Embeddings**
