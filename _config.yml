@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+
+sidebar:
+  - title: "Yorgos Psarellis"
+    image: "IMG_20210318_222443_199.jpg"
