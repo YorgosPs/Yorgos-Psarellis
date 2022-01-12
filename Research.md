@@ -42,7 +42,12 @@ https://user-images.githubusercontent.com/19255413/149025012-5646acd7-e3b4-4f45-
 
 
 * Bayesian Continuation for Bayesian Optimization
+
+A research 'by-product' of Dynamic Catalysis: Initializing Black-box simulations using Machine Learning surrogate models. 
+
 * Investigating the response of Circadian Rhythmicity to drugs
+
+
 * Directed Graph Embeddings
 * Neural Network Pathologies
 * Machine Learning for PDEs with Complex Geometries
