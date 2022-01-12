@@ -19,7 +19,7 @@ And with many kinds of datasets:
 
 **Fig.2** : Data-driven PDEs can be trained on experimental data. Here the Neural Network 'learns' and reproduces what is seen in the microscope. 
 
-<span style="color:red">some **This is Red Bold.** text</span>
+<span style="color:red"> Project finished - two publications underway  text</span>
 
 [1]  [Bhattacharjee et al., 2020](https://www.sciencedirect.com/science/article/pii/S0006349521004276)
 
@@ -39,6 +39,9 @@ https://user-images.githubusercontent.com/19255413/149025012-5646acd7-e3b4-4f45-
 
 **Fig.4** : Bayesian Optimization 'sculpts' a complex forcing function to optimize the reactor's performance. 
 
+<span style="color:red"> Project finished - one publication underway  text</span>
+
+
 [2] [Ardagh et al., 2020](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06140a)
 
 
@@ -46,7 +49,13 @@ https://user-images.githubusercontent.com/19255413/149025012-5646acd7-e3b4-4f45-
 
 A research 'by-product' of Dynamic Catalysis: Initializing Black-box simulations using Machine Learning surrogate models. 
 
+<span style="color:red"> Project finished - one publication underway  text</span>
+
+
 * **Investigating the response of Circadian Rhythmicity to drugs**
+
+
+<span style="color:red"> Project under completion  text</span>
 
 
 * **Directed Graph Embeddings**
@@ -57,13 +66,22 @@ Directed Graphs arise naturally in applications ranging from chemical reaction n
 
 **Fig.5** : A two-scale potential energy surface giving rise to a Directed Graph of transition probabilities. This graph is reducible to one-dimension.
 
+<span style="color:red"> Project under completion  text</span>
+
+
 * **Neural Network Pathologies**
 
 Using Neural Networks to approximate the dynamics of nonlinear systems can lead to qualitatively different attractors. I verify and investigate such pathologies.
 
+<span style="color:red"> Project under completion  text</span>
+
+
 * **Machine Learning for PDEs with Complex Geometries**
 
 I try to map PDE solutions to the geometries of their domain boundaries. This can be used to accelerate simulations of the Electrohysiology of the heart.
+
+<span style="color:red"> Project under completion  text</span>
+
 
 
 
