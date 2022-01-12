@@ -23,7 +23,7 @@ And with many kinds of datasets:
 [1]  [Bhattacharjee et al., 2020](https://www.sciencedirect.com/science/article/pii/S0006349521004276)
 
 #### Programming Dynamic Catalysts with Bayesian Optimization
-Catalytic reactions are naturally limited by the Sabatier principle. By imposing an electrodynamic oscillation on the surface, the binding energies and surface coverages oscillate in time.  When the oscillation parameters are tuned appropriately, the Sabatier principle can be overcome. I used **advanced numerical methods** and **machine learning** to tune such catalysts. Improved catalytic performance can have significant impact on **sustainability**, such as low-cost solar and wind power [2].
+Improved catalytic performance can lead to breakthroughs in sustainability, such as low-cost solar and wind power. However, catalysts are naturally limited by the [Sabatier principle](https://en.wikipedia.org/wiki/Sabatier_principle). By imposing a (appropriately tuned) electrodynamic oscillation on the surface, the Sabatier principle can be overcome. I used **advanced numerical methods** and **machine learning** to tune such catalysts. Improved catalytic performance can have significant impact on **sustainability**, sustainabilsuch as low-cost solar and wind power [2].
  * Root-finding accelerated by up to 150% using the a Variational Approach.
  * Pseudo-arclength continuation used to explore the parameter space.
  * Bayesian Optimization emloyed to optimize reactor performance/reaction rates.
