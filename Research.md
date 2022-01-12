@@ -23,10 +23,10 @@ And with many kinds of datasets:
 [1]  [Bhattacharjee et al., 2020](https://www.sciencedirect.com/science/article/pii/S0006349521004276)
 
 #### Programming Dynamic Catalysts with Bayesian Optimization
-Improved catalytic performance can lead to breakthroughs in sustainability, such as low-cost solar and wind power. However, catalysts are naturally limited by the [Sabatier principle](https://en.wikipedia.org/wiki/Sabatier_principle). By imposing a (appropriately tuned) electrodynamic oscillation on the surface, the Sabatier principle can be overcome. I used **advanced numerical methods** and **machine learning** to tune such catalysts. Improved catalytic performance can have significant impact on **sustainability**, sustainabilsuch as low-cost solar and wind power [2].
+Improved catalytic performance can lead to breakthroughs in sustainability, e.g. low-cost solar and wind power. However, catalysts are naturally limited by the [Sabatier principle](https://en.wikipedia.org/wiki/Sabatier_principle). By imposing an (appropriately tuned) electrodynamic oscillation on the catalytic surface, the Sabatier principle can be overcome [2]. I used **advanced Numerical Methods** and **Machine Learning** to tune such catalysts. This included:
  * Root-finding accelerated by up to 150% using the a Variational Approach.
  * Pseudo-arclength continuation used to explore the parameter space.
- * Bayesian Optimization emloyed to optimize reactor performance/reaction rates.
+ * Bayesian Optimization employed to optimize reactor performance/reaction rates.
 
 <img src="dyncat.gif" width="200"/>
 
@@ -49,6 +49,11 @@ A research 'by-product' of Dynamic Catalysis: Initializing Black-box simulations
 
 
 * Directed Graph Embeddings
+
+Directed Graphs arise naturally in applications ranging from chemical reaction networks to social networks and IoT. Here, I investigate mappings to(/from) lower-dimensional descriptions with unsupervised learning and interpret data-driven coordinates.
+
+
+
 * Neural Network Pathologies
 * Machine Learning for PDEs with Complex Geometries
 
