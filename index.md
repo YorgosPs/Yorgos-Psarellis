@@ -2,7 +2,7 @@
 #### Machine Learning Scientist
 #### PhD Candidate @ JHU.-->
 
-#### Hello, welcome to my personal page 
+#### Hello, welcome to my personal page.
 
 I'm interested in Computational Research that helps people. 
 I've worked on problems in Artificial Intelligence, Manifold Learning, Probability Theory with applications in Biology, Biomedical engineering and Catalysis. Check out my [CV](CV_Psarellis.pdf) for a summary of my academic journey.
