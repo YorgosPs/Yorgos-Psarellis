@@ -52,10 +52,17 @@ A research 'by-product' of Dynamic Catalysis: Initializing Black-box simulations
 
 Directed Graphs arise naturally in applications ranging from chemical reaction networks to social networks and IoT. Here, I investigate mappings to(/from) lower-dimensional descriptions with unsupervised learning and interpret data-driven coordinates.
 
+<img src="3d.png" width="400"/>
 
+**Fig.5** : A two-scale potential energy surface giving rise to a Directed Graph of transition probabilities. This graph is reducible to one-dimension.
 
 * Neural Network Pathologies
+
+Using Neural Networks to approximate the dynamics of nonlinear systems can lead to qualitatively different attractors. I verify and investigate such pathologies.
+
 * Machine Learning for PDEs with Complex Geometries
+
+I try to map PDE solutions to the geometries of their domain boundaries. This can be used to accelerate simulations of the Electrohysiology of the heart.
 
 
 
