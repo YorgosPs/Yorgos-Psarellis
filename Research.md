@@ -17,16 +17,16 @@ And with many kinds of datasets:
 
 <img src="1.PNG" width="400"/>
 
-**Fig.2** : Data-driven PDEs can be trained on experimental data. Here the Neural Network 'learns' and reproduces what is seen in the microscoped. 
+**Fig.2** : Data-driven PDEs can be trained on experimental data. Here the Neural Network 'learns' and reproduces what is seen in the microscope. 
 
 
 [1]  [Bhattacharjee et al., 2020](https://www.sciencedirect.com/science/article/pii/S0006349521004276)
 
 #### Programming Dynamic Catalysts with Bayesian Optimization
-Catalytic reactions are naturally limited by the Sabatier principle. By imposing an electrodynamic oscillation on the surface, the binding energies and surface coverages oscillate in time.  When the oscillation parameters are tuned appropriately, the Sabatier principle can be overcome. I used advanced numerical methods and machine learning to tune such catalysts. Improved catalytic performance can have significant impact on <u> sustainability </u>, such as low cost solar and wind power [2].
- * I use the Variational Approach to locate periodic steady states. 
- * Pseudo-arclength continuation 
- * Bayesian Optimization 
+Catalytic reactions are naturally limited by the Sabatier principle. By imposing an electrodynamic oscillation on the surface, the binding energies and surface coverages oscillate in time.  When the oscillation parameters are tuned appropriately, the Sabatier principle can be overcome. I used **advanced numerical methods** and **machine learning** to tune such catalysts. Improved catalytic performance can have significant impact on **sustainability**, such as low-cost solar and wind power [2].
+ * Root-finding accelerated by up to 150% using the a Variational Approach.
+ * Pseudo-arclength continuation used to explore the parameter space.
+ * Bayesian Optimization emloyed to optimize reactor performance/reaction rates.
 
 <img src="dyncat.gif" width="200"/>
 
