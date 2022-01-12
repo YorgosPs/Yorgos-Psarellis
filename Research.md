@@ -62,9 +62,10 @@ Circadian rhythm is central to many physiological, mental and behavioral process
 
 <img src="Oscillation1_forced.png" width="500"/>
 
-<span style="color:red"> Project under completion </span>
-
 **Fig.5** : Example of Crcadian Oscillations for one circadian neuron in the Suprachriacmatic Nucleus.
+
+
+<span style="color:red"> Project under completion </span>
 
 [3] [Vasalou et al., 2011](https://www.sciencedirect.com/science/article/pii/S0006349511005613)
 
