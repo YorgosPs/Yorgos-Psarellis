@@ -1,14 +1,14 @@
 ### PhD Projects
 
 #### Neural Networks can learn how Bacteria move and coordinate  
-Chemotaxis is the ability of bacteria to direct multicellular motion along chemical gradients [1]. This phenomenon is central to environmental, medical and agricultural processes. For this project, I trained Neural Networks that *learn* Chemotactic PDEs, and when integrated, can reproduce and predict bacterial density profiles. This has been done in the following cases:
+Chemotaxis is the ability of bacteria to direct multicellular motion along chemical gradients. This phenomenon is central to environmental, medical and agricultural processes [1]. For this project, I trained Neural Networks that *learn* Chemotactic PDEs, and when integrated, can reproduce and predict bacterial density profiles. This has been done in the following cases:
   * Black-box PDE models
   * Gray-box PDE models (Closures)
   * Partial information - second order models  
   
 And with many kinds of datasets:
   * Data from PDE simulations 
-  * Data from Monte-Carlo simulations (agent-based model)
+  * Data from Monte-Carlo simulations (agent-based models)
   * Sparse, Noisy experimental data
 
 <img src="NNPDE1.gif" width="400"/>
