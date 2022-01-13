@@ -15,7 +15,7 @@ I've worked on problems in Artificial Intelligence, Manifold Learning, Probabili
 
 <img src="scigma.png" width="400"/>
 
-#### Personal
+#### [Personal](Personal.md)
 
 
 <div id="contact">
