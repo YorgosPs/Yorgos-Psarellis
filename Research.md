@@ -25,7 +25,7 @@ And with many kinds of datasets:
 
 #### Programming Dynamic Catalysts with Bayesian Optimization
 Improved catalytic performance can lead to breakthroughs in sustainability, e.g. low-cost solar and wind power. However, catalysts are naturally limited by the [Sabatier principle](https://en.wikipedia.org/wiki/Sabatier_principle). By imposing an (appropriately tuned) electrodynamic oscillation on the catalytic surface, the Sabatier principle can be overcome [2]. I used **advanced Numerical Methods** and **Machine Learning** to tune such catalysts. This included:
- * Root-finding accelerated by up to 150% using the a Variational Approach.
+ * Root-finding accelerated by up to 150% using a Variational Approach.
  * Pseudo-arclength continuation used to explore the parameter space.
  * Bayesian Optimization employed to optimize reactor performance/reaction rates.
 
@@ -52,9 +52,9 @@ A research 'by-product' of Dynamic Catalysis: Initializing Black-box simulations
 
 * **Investigating the response of Circadian Rhythmicity to drugs**
 
-Circadian rhythm is central to many physiological, mental and behavioral processes in mammals. I study one of the most advanced and established computational biology models of the suprachiasmatic nucleus, the neurons of which decide the circadian rhythm [3]. 
-   * Using Matrix-free numerical methods, I explore periodic solutions of a 8925-dimensional    dynamical system. 
-   * I explore how the drug Longdaysin affects the limits of entrainment 
+Circadian rhythm is central to many physiological, mental and behavioral processes in all mammals. I study one of the most advanced/ established computational biology models of the suprachiasmatic nucleus, the neurons of which oscillate to produce the circadian rhythm [3]. 
+   * Using Matrix-free numerical methods, I explore periodic solutions of a 8925-dimensional dynamical system. 
+   * I investigate how the drug [Longdaysin](https://www.medchemexpress.com/longdaysin.html) affects the limits of entrainment.
    * Unsupervised learning is used to cluster/order the neurons by their heterogeneities.
 
 
@@ -71,7 +71,7 @@ Circadian rhythm is central to many physiological, mental and behavioral process
 
 * **Directed Graph Embeddings**
 
-Directed Graphs arise naturally in applications ranging from chemical reaction networks to social networks and IoT. Here, I investigate mappings to(/from) lower-dimensional descriptions with unsupervised learning and interpret data-driven coordinates.
+Directed Graphs arise naturally in applications ranging from chemical reaction networks to social networks and IoT. Here, I investigate mappings to(/from) lower-dimensional descriptions with unsupervised learning and interpret the new sets of data-driven coordinates.
 
 <img src="3d.png" width="400"/>
 
