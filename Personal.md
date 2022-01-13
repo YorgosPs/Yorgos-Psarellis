@@ -4,10 +4,11 @@ Hanging out or traveling with friends
 
 Reading (oscillating between sci-fi and philosophy)  
 
-Cooking (especially Greek cousine)  
+Cooking (especially Mediterranean cousine)  
 
 Bartending (AI inspired cocktails coming up!)  
 
-Learning a new language (currently: Spanish!)  
+Learning a new language   
+    I speak: Greek(native), English, German, Spanish (currently learning!) and Arabic (beginner)
 
 Bouldering  
