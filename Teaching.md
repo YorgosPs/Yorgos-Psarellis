@@ -11,9 +11,9 @@ Through this program, I was hired to train and provide resources to new Teaching
 
 **Fig.1** : Bloom's Taxonomy 
 
-<img src="Blooms-Taxonomy.jpg" width="400"/>
+<img src="exp.jfif" width="300"/>
 
-**Fig.2** : Bloom's Taxonomy 
+**Fig.2** : An implementation of evidence-based learning I designed when tutoring highschool students.  
 
 #### Justice, Equity, Diversity and Inclusion Certification
 
