@@ -1,4 +1,4 @@
-When I'm not researching or teaching, you will find me:
+When I'm **not** researching or teaching, you will find me:
 
 Hanging out or traveling with friends  
 
