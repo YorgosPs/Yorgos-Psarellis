@@ -55,7 +55,7 @@ A research 'by-product' of Dynamic Catalysis: Initializing Black-box simulations
 Circadian rhythm is central to many physiological, mental and behavioral processes in all mammals. I study one of the most advanced/ established computational biology models of the suprachiasmatic nucleus, the neurons of which oscillate to produce the circadian rhythm [3]. 
    * Using Matrix-free numerical methods, I explore periodic solutions of a 8925-dimensional dynamical system. 
    * I investigate how the drug [Longdaysin](https://www.medchemexpress.com/longdaysin.html) affects the limits of entrainment.
-   * I employ Unsupervised learning to cluster/order the neurons by their heterogeneities.
+   * I employ Unsupervised learning to cluster/parametrize the neurons and find out what sets them apart.
 
 
 <img src="Oscillation1_forced.png" width="500"/>
