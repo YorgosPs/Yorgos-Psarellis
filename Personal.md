@@ -1,7 +1,8 @@
-When I'm not researching or teaching, you will find me 
+When I'm not researching or teaching, you will find me:
 
-* Hanging out with friends
-* Reading (split between sci-fi and philosophy)
-* Cooking (especially my native Greek cousine)
+* Hanging out or traveling with friends
+* Reading (oscillating between sci-fi and philosophy)
+* Cooking (especially recipes my native Greek cousine)
 * Bartending (AI inspired cocktails coming up)
+* Learning a new language (currently: Spanish!)
 * Bouldering
