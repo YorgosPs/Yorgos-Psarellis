@@ -25,4 +25,6 @@ I served as a teaching Assistant for ~20 PhD students for the core class of Adva
 
 #### Technology Fellow: Turning a Nonlinear Dynamics Class into a Virtual Laboratory
 
-I got funded with $5,000 from the Center of Educational Resources to develop software and educational material for the class Nonlinear Dynamics and Chaos. 
+I got funded with $5,000 from the Center of Educational Resources to develop software and educational material for the class Nonlinear Dynamics and Chaos.  These software included [SCIGMA](https://github.com/scigma/scigma) and [AUTO](https://github.com/auto-07p/auto-07p), two state-of-the-art educational (and research) software. 
+
+<img src="scigma.png" width="400"/>
