@@ -11,6 +11,10 @@ Through this program, I was hired to train and provide resources to new Teaching
 
 **Fig.1** : Bloom's Taxonomy 
 
+<img src="Blooms-Taxonomy.jpg" width="400"/>
+
+**Fig.2** : Bloom's Taxonomy 
+
 #### Justice, Equity, Diversity and Inclusion Certification
 
 I received a [certification](https://cer.jhu.edu/files_ta/JEDI_Revised_2.pdf) for attending a training seminar series on JEDI, where I learned how I can create a more safe and inclusive classroom experience for my students.
@@ -28,3 +32,6 @@ I served as a teaching Assistant for ~20 PhD students for the core class of Adva
 I got funded with $5,000 from the Center of Educational Resources to develop software and educational material for the class Nonlinear Dynamics and Chaos.  These software included [SCIGMA](https://github.com/scigma/scigma) and [AUTO](https://github.com/auto-07p/auto-07p), two state-of-the-art educational (and research) software. 
 
 <img src="scigma.png" width="400"/>
+
+**Fig.3** : A screenshot from SCIGMA. Courtesy of Dr. Robert Hoelzel.
+
