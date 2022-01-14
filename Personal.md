@@ -12,14 +12,10 @@ Learning a new language
     I speak: Greek(native), English, German, Spanish (currently learning!) and Arabic (beginner)
 
 Bouldering  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+<br>
+<br>
+<br>
+<br>
+<br>
+
   Credit for the profile pic to Yvi Galetaki.
