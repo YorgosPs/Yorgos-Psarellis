@@ -17,7 +17,7 @@ Through this program, I was hired to train and provide resources to new Teaching
 
 #### Justice, Equity, Diversity and Inclusion Certification
 
-I received a [certification](https://cer.jhu.edu/files_ta/JEDI_Revised_2.pdf) for attending a training seminar series on JEDI, where I learned how I can create a more safe and inclusive classroom experience for my students.
+I received a [certification](https://cer.jhu.edu/files_ta/JEDI_Revised_2.pdf) for attending a training seminar series on JEDI, where I learned how I can create a safer and more inclusive classroom experience for my students.
 
 #### Teaching Assistant, Nonlinear Dynamics and Chaos
 
