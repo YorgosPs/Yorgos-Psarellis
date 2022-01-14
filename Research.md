@@ -89,7 +89,7 @@ Using Neural Networks to approximate the dynamics of nonlinear systems can lead 
 
 * **Machine Learning for PDEs with Complex Geometries**
 
-I try to map PDE solutions to the geometries of their domain boundaries. This can be used to accelerate simulations of the Electrohysiology of the heart.
+I try to map PDE solutions to the geometries of their domain boundaries. This can be used to accelerate simulations of the Electrophysiology of the heart.
 
 <span style="color:red"> Project under completion </span>
 
