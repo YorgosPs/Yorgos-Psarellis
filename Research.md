@@ -37,7 +37,7 @@ Improved catalytic performance can lead to breakthroughs in sustainability, e.g.
 
 **Fig.4** : Bayesian Optimization 'sculpts' a complex forcing function (red curve) to optimize the reactor's performance. 
 
-<span style="color:red"> Project finished - one publication underway </span>
+<span style="color:red"> Project finished - two publication underway </span>
 
 
 [2] [Ardagh et al., 2020](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06140a)
@@ -92,6 +92,16 @@ Using Neural Networks to approximate the dynamics of nonlinear systems can lead 
 I try to map PDE solutions to the geometries of their domain boundaries. This can be used to accelerate simulations of the Electrophysiology of the heart.
 
 <span style="color:red"> Project under completion </span>
+
+
+### Personal Projects/ Code samples
+
+* **BrainSeq** 
+This is my first personal project and exploration. I am trying to uncover patterns in a number sequences provided by Jenny (a friend). I demonstrate tools and algorithms from statistics and probability for testing my friend's brain as a random number generator. 
+
+* **NKGMRES**
+
+This is a code sample for an advanced solver for high-dimensional, nonlinear systems of equations.
 
 
 
