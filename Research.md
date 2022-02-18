@@ -100,7 +100,6 @@ I try to map PDE solutions to the geometries of their domain boundaries. This ca
 This is my first personal project and exploration. I am trying to uncover patterns in a number sequences provided by Jenny (a friend). I demonstrate tools and algorithms from statistics and probability for testing my friend's brain as a random number generator. 
 
 * **NKGMRES**
-
 This is a code sample for an advanced solver for high-dimensional, nonlinear systems of equations.
 
 
