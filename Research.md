@@ -65,7 +65,7 @@ Improved catalytic performance can lead to breakthroughs in sustainability, e.g.
 
 #### 4) Searching for rare events in Chemistry and Biology
 
-Rare events in chemistry and biology often translate to catastrophic phenomena. Their discovery is important not only for deeper understanding of the underlying dynamics, but also for safe engineering design and therapeutic interventions. In this work I used methods Bayesian Optimization to locate such points with active sampling. Some highlights include:
+Rare events in chemistry and biology often translate to catastrophic phenomena. Their discovery is important not only for deeper understanding of the underlying dynamics, but also for safe engineering design and therapeutic interventions. In this work I used tools from Bayesian Optimization to locate such points with active sampling. Some highlights include:
 
 * Uncertainty quantification of rare events.
 * Parsimonious/smart/active sampling.
