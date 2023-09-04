@@ -41,8 +41,7 @@ Improved catalytic performance can lead to breakthroughs in sustainability, e.g.
 
 **Fig.4** : Bayesian Optimization 'sculpts' a complex forcing function (red curve) to optimize the reactor's performance. 
 
-<span style="color:red"> Project finished - two publication underway </span>
-
+**Publication**: [Psarellis et al., 2023](https://pubs.acs.org/doi/abs/10.1021/acscatal.3c00864)
 
 [2] [Ardagh et al., 2020](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06140a)
 
