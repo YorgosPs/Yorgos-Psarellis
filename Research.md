@@ -63,15 +63,18 @@ Improved catalytic performance can lead to breakthroughs in sustainability, e.g.
 
 [2] [Ardagh et al., 2020](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06140a)
 
-#### 4) Searching for rare-events in Chemistry and Biology
+#### 4) Searching for rare events in Chemistry and Biology
 
-This is the main project of my postdoctoral research which is currently under completion.
+Rare events in chemistry and biology often translate to catastrophic phenomena. Their discovery is important not only for deeper understanding of the underlying dynamics, but also for safe engineering design and therapeutic interventions. In this work I used methods Bayesian Optimization to locate such points with active sampling. Some highlights include:
+
+* Uncertainty quantification of rare events.
+* Parsimonious/smart/active sampling.
+* No equations/model needed (black-box observable), therefore readily applied to experiments.
 
 #### 5) Bayesian Continuation for Bayesian Optimization
 
-A research 'by-product' of Dynamic Catalysis: Initializing Black-box simulations using Machine Learning surrogate models. 
+A research 'by-product' of Dynamic Catalysis: Initializing Black-box simulations using Machine Learning surrogate models. This algorithms also enables higher-order, machine-learning enabled numerical continuation. 
 
-<span style="color:red"> Project finished - one publication underway </span>
 
 
 #### 6) Directed Graph Embeddings
@@ -82,17 +85,18 @@ Directed Graphs arise naturally in applications ranging from chemical reaction n
 
 **Fig.6** : A two-scale potential energy surface giving rise to a Directed Graph of transition probabilities. This graph is reducible to one-dimension.
 
-<span style="color:red"> Project under completion </span>
-
 
 #### 7) Neural Network Pathologies
 
-Using Neural Networks to approximate the dynamics of nonlinear systems can lead to qualitatively different attractors. I verify and investigate such pathologies.
-
-<span style="color:red"> Project under completion </span>
+Using Neural Networks to approximate the dynamics of nonlinear systems can lead to qualitatively different attractors. I verify and investigate such pathologies, using (and designing) invertible Neural Network architectures.
 
 #### 8) Emergent spaces for cell biomarkers
 
+In the recent era of overwhelmingly many single-cell data, advanced unsupervised learning techniques are employed to find out:
+
+* How many nonlinear descriptors are important when studying a large number of motility/morphology/biochemical features.
+* Which features describe the **same** underlying processes.
+* Which features have predictive power when it comes to a disease related outcome, such as aging- or pathogen-related
 
 
 
