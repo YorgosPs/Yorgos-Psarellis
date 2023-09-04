@@ -37,7 +37,7 @@ Circadian rhythm is central to many physiological, mental and behavioral process
 
 <img src="Animation_vid.gif" width="400"/>
 
-**Fig.5** : Example of realistic spatiotempotal circadian oscillations in the Suprachriacmatic Nucleus. The color here corresponds to the concentration of Per-mRNA.
+**Fig.3** : Example of realistic spatiotempotal circadian oscillations in the Suprachriacmatic Nucleus. The color here corresponds to the concentration of Per-mRNA.
 
 
 **Publication**: [Psarellis et al., 2023](https://pubs.aip.org/aip/cha/article-abstract/33/1/013137/2877636/Limits-of-entrainment-of-circadian-neuronal)
@@ -53,11 +53,11 @@ Improved catalytic performance can lead to breakthroughs in sustainability, e.g.
 
 <img src="dyncat.gif" width="200"/>
 
-**Fig.3** : Dynamic Catalysts act like a molecular 'pump' overcoming the limitations of static catalysis.
+**Fig.4** : Dynamic Catalysts act like a molecular 'pump' overcoming the limitations of static catalysis.
 
 <img src="dyncatanim.gif" width="500"/>
 
-**Fig.4** : Bayesian Optimization 'sculpts' a complex forcing function (red curve) to optimize the reactor's performance. 
+**Fig.5** : Bayesian Optimization 'sculpts' a complex forcing function (red curve) to optimize the reactor's performance. 
 
 **Publication**: [Psarellis et al., 2023](https://pubs.acs.org/doi/abs/10.1021/acscatal.3c00864)
 
