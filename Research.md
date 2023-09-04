@@ -37,10 +37,10 @@ Circadian rhythm is central to many physiological, mental and behavioral process
 
 <img src="Animation_vid.gif" width="400"/>
 
-**Fig.5** : Example of realistic spatiotempotal circadian oscillations in the Suprachriacmatic Nucleus. The color here corresponds to the pro
+**Fig.5** : Example of realistic spatiotempotal circadian oscillations in the Suprachriacmatic Nucleus. The color here corresponds to the concentration of Per-mRNA.
 
 
-<span style="color:red"> Project under completion </span>
+**Publication**: [Psarellis et al., 2023](https://pubs.aip.org/aip/cha/article-abstract/33/1/013137/2877636/Limits-of-entrainment-of-circadian-neuronal)
 
 [3] [Vasalou et al., 2011](https://www.sciencedirect.com/science/article/pii/S0006349511005613)
 
