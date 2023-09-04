@@ -35,7 +35,7 @@ Circadian rhythm is central to many physiological, mental and behavioral process
    * I employ Unsupervised learning to cluster/parametrize the neurons and find out what sets them apart.
 
 
-<img src="Oscillation1_forced.png" width="500"/>
+<img src="Animation_vid.gif" width="400"/>
 
 **Fig.5** : Example of realistic spatiotempotal circadian oscillations in the Suprachriacmatic Nucleus. The color here corresponds to the pro
 
