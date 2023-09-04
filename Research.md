@@ -19,7 +19,10 @@ And with many kinds of datasets:
 
 **Fig.2** : Data-driven PDEs can be trained on experimental data. Here the Neural Network 'learns' and reproduces what is seen in the microscope. 
 
-<span style="color:red"> Project finished - two publications underway </span>
+**Publications:**
+[Psarellis et al., 2022](https://arxiv.org/pdf/2208.11853.pdf)
+[Lee, Psarellis et al., 2023](https://link.springer.com/article/10.1007/s00285-023-01946-0)
+
 
 [1]  [Bhattacharjee et al., 2020](https://www.sciencedirect.com/science/article/pii/S0006349521004276)
 
