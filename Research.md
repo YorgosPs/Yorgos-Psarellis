@@ -26,6 +26,24 @@ And with many kinds of datasets:
 
 [1]  [Bhattacharjee et al., 2020](https://www.sciencedirect.com/science/article/pii/S0006349521004276)
 
+#### Investigating the response of Circadian Rhythmicity to drugs
+
+
+Circadian rhythm is central to many physiological, mental and behavioral processes in all mammals. I study one of the most advanced/ established computational biology models of the suprachiasmatic nucleus, the neurons of which oscillate to produce the circadian rhythm [3]. 
+   * Using Matrix-free numerical methods, I explore periodic solutions of a 8925-dimensional dynamical system. 
+   * I investigate how the drug [Longdaysin](https://www.medchemexpress.com/longdaysin.html) affects the limits of entrainment.
+   * I employ Unsupervised learning to cluster/parametrize the neurons and find out what sets them apart.
+
+
+<img src="Oscillation1_forced.png" width="500"/>
+
+**Fig.5** : Example of Crcadian Oscillations for one circadian neuron in the Suprachriacmatic Nucleus.
+
+
+<span style="color:red"> Project under completion </span>
+
+[3] [Vasalou et al., 2011](https://www.sciencedirect.com/science/article/pii/S0006349511005613)
+
 #### Programming Dynamic Catalysts with Bayesian Optimization
 Improved catalytic performance can lead to breakthroughs in sustainability, e.g. low-cost solar and wind power. However, catalysts are naturally limited by the [Sabatier principle](https://en.wikipedia.org/wiki/Sabatier_principle). By imposing an (appropriately tuned) electrodynamic oscillation on the catalytic surface, the Sabatier principle can be overcome [2]. I used **advanced Numerical Methods** and **Machine Learning** to tune such catalysts. This included:
  * Root-finding accelerated by up to 150% using a Variational Approach.
@@ -53,22 +71,7 @@ A research 'by-product' of Dynamic Catalysis: Initializing Black-box simulations
 <span style="color:red"> Project finished - one publication underway </span>
 
 
-* **Investigating the response of Circadian Rhythmicity to drugs**
 
-Circadian rhythm is central to many physiological, mental and behavioral processes in all mammals. I study one of the most advanced/ established computational biology models of the suprachiasmatic nucleus, the neurons of which oscillate to produce the circadian rhythm [3]. 
-   * Using Matrix-free numerical methods, I explore periodic solutions of a 8925-dimensional dynamical system. 
-   * I investigate how the drug [Longdaysin](https://www.medchemexpress.com/longdaysin.html) affects the limits of entrainment.
-   * I employ Unsupervised learning to cluster/parametrize the neurons and find out what sets them apart.
-
-
-<img src="Oscillation1_forced.png" width="500"/>
-
-**Fig.5** : Example of Crcadian Oscillations for one circadian neuron in the Suprachriacmatic Nucleus.
-
-
-<span style="color:red"> Project under completion </span>
-
-[3] [Vasalou et al., 2011](https://www.sciencedirect.com/science/article/pii/S0006349511005613)
 
 
 
