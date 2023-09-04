@@ -31,6 +31,7 @@ Improved catalytic performance can lead to breakthroughs in sustainability, e.g.
  * Root-finding accelerated by up to 150% using a Variational Approach.
  * Pseudo-arclength continuation used to explore the parameter space.
  * Bayesian Optimization employed to optimize reactor performance/reaction rates.
+ * Bayesian Continuation (introduced here) to learn the solution manifold of the reactor.
 
 <img src="dyncat.gif" width="200"/>
 
