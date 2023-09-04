@@ -96,7 +96,7 @@ In the recent era of overwhelmingly many single-cell data, advanced unsupervised
 
 * How many nonlinear descriptors are important when studying a large number of motility/morphology/biochemical features.
 * Which features describe the **same** underlying processes.
-* Which features have predictive power when it comes to a disease related outcome, such as aging- or pathogen-related
+* Which features have predictive power when it comes to a disease related outcome, such as aging- or pathogen-related.
 
 
 
