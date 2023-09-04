@@ -1,6 +1,6 @@
 When I'm **not** researching or teaching, you will find me:
 
-Hanging out or traveling with friends  
+Hanging out or traveling with friends (next trip: Peru in early 2024)
 
 Reading (oscillating between sci-fi and philosophy)  
 
