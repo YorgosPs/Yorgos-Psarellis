@@ -1,6 +1,6 @@
 ### PhD Projects
 
-#### Neural Networks learning how bacteria move and coordinate  
+#### 1) Neural Networks learning how bacteria move and coordinate  
 Chemotaxis is the ability of bacteria to direct multicellular motion along chemical gradients. This phenomenon is central to environmental, medical and agricultural processes [1]. For this project, I trained Neural Networks (and Gaussian Processes) that *learn* Chemotactic PDEs, and when integrated, can **reproduce and predict bacterial density profiles**. This has been done in the following cases:
   * Black-box PDE models
   * Gray-box PDE models (closures)
@@ -26,7 +26,7 @@ And with many kinds of datasets:
 
 [1]  [Bhattacharjee et al., 2020](https://www.sciencedirect.com/science/article/pii/S0006349521004276)
 
-#### Investigating the response of Circadian Rhythmicity to drugs
+#### 2) Investigating the response of Circadian Rhythmicity to drugs
 
 
 Circadian rhythm is central to many physiological, mental and behavioral processes in all mammals. I study one of the most advanced/ established computational biology models of the suprachiasmatic nucleus, the neurons of which oscillate to produce the circadian rhythm [3]. 
@@ -44,7 +44,7 @@ Circadian rhythm is central to many physiological, mental and behavioral process
 
 [3] [Vasalou et al., 2011](https://www.sciencedirect.com/science/article/pii/S0006349511005613)
 
-#### Programming Dynamic Catalysts with Bayesian Optimization
+#### 3) Programming Dynamic Catalysts with Bayesian Optimization
 Improved catalytic performance can lead to breakthroughs in sustainability, e.g. low-cost solar and wind power. However, catalysts are naturally limited by the [Sabatier principle](https://en.wikipedia.org/wiki/Sabatier_principle). By imposing an (appropriately tuned) electrodynamic oscillation on the catalytic surface, the Sabatier principle can be overcome [2]. I used **advanced Numerical Methods** and **Machine Learning** to tune such catalysts. This included:
  * Root-finding accelerated by up to 150% using a Variational Approach.
  * Pseudo-arclength continuation used to explore the parameter space.
@@ -63,19 +63,18 @@ Improved catalytic performance can lead to breakthroughs in sustainability, e.g.
 
 [2] [Ardagh et al., 2020](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc06140a)
 
+#### 4) Searching for rare-events in Chemistry and Biology
 
-* **Bayesian Continuation for Bayesian Optimization**
+This is the main project of my postdoctoral research which is currently under completion.
+
+#### 5) Bayesian Continuation for Bayesian Optimization
 
 A research 'by-product' of Dynamic Catalysis: Initializing Black-box simulations using Machine Learning surrogate models. 
 
 <span style="color:red"> Project finished - one publication underway </span>
 
 
-
-
-
-
-* **Directed Graph Embeddings**
+#### 6) Directed Graph Embeddings
 
 Directed Graphs arise naturally in applications ranging from chemical reaction networks to social networks and IoT. Here, I investigate mappings to(/from) lower-dimensional descriptions with unsupervised learning and interpret the new sets of data-driven coordinates.
 
@@ -86,27 +85,14 @@ Directed Graphs arise naturally in applications ranging from chemical reaction n
 <span style="color:red"> Project under completion </span>
 
 
-* **Neural Network Pathologies**
+#### 7) Neural Network Pathologies
 
 Using Neural Networks to approximate the dynamics of nonlinear systems can lead to qualitatively different attractors. I verify and investigate such pathologies.
 
 <span style="color:red"> Project under completion </span>
 
+#### 8) Emergent spaces for cell biomarkers
 
-* **Machine Learning for PDEs with Complex Geometries**
-
-I try to map PDE solutions to the geometries of their domain boundaries. This can be used to accelerate simulations of the Electrophysiology of the heart.
-
-<span style="color:red"> Project under completion </span>
-
-
-### Personal Projects/ Code samples
-
-* **BrainSeq** 
-This is my first personal project and exploration. I am trying to uncover patterns in a number sequences provided by Jenny (a friend). I demonstrate tools and algorithms from statistics and probability for testing my friend's brain as a random number generator. 
-
-* **NKGMRES**
-This is a code sample for an advanced solver for high-dimensional, nonlinear systems of equations.
 
 
 
