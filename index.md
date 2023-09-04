@@ -4,8 +4,7 @@
 
 #### Hi, welcome to my personal page.
 
-I'm [Yorgos](https://www.howtopronounce.com/yorgos), a PhD Candidate at Johns Hopkins University. I'm interested in Computational Research that helps people. 
-I've worked on problems in Artificial Intelligence, Manifold Learning, Probability Theory with applications in Biology, Biomedical engineering and Catalysis. Check out my [CV](CV_Psarellis.pdf) for a summary of my academic journey.
+I'm [Yorgos](https://www.howtopronounce.com/yorgos), a postdoctoral researcher at MIT. I'm interested in how Machine Learning complements (and advances) our understanding of the world through the lens of science. I've worked on problems in Supervised Learning, Embeddings and Active Learning with applications in Biology and Chemical Engineering. Check out my [CV](CV_Psarellis.pdf) for a summary of my academic journey.
 
 #### [Research](Research.md)
 
